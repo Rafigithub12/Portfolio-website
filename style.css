@@ -1,0 +1,84 @@
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+h1 {
+    color: #66bfbf;
+    font-size: 3.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h2 {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    
+}
+
+.middle-container {
+    margin: 100px, 0;
+}
+
+.Rafi{
+    border-radius: 11%;
+    margin-top: 30px;
+}
+
+hr {
+    border: dotted #eaf2f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.skills {
+    font-weight: bold;
+}
+
+.cat {
+    width: 10%;
+    height: 9rem;
+}
+
+.Projects {
+    width: 10%;
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+
+a {
+    color: #9e1137;
+    font-family: 'Quicksand', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.end {
+    margin-top: 30px;
+}
